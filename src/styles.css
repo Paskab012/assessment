@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Volkhov:wght@400;700&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+h1 {
+  font-family: 'Volkhov', serif;
+}
+
+.header {
+  background-image: url('https://www.mckinsey.com/~/media/mckinsey/home%20page/september%2022%202022/securing-europe_s-competitiveness-hp1-1080x1080.png');
+  background-color: #051c2c;
+}

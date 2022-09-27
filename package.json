@@ -4,8 +4,7 @@
   "description": "Assessment",
   "main": "index.js",
   "scripts": {
-    "start": "vite",
-    "build": "tailwindcss build -i ./src/styles.css -o ./dist/index.css"
+    "dev": "vite"
   },
   "repository": {
     "type": "git",
